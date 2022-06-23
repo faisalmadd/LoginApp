@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743340311326",
+    "firebase_url": "https://faisalfirebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "faisalfirebase",
+    "storage_bucket": "faisalfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743340311326:android:a5b2eabc2c6b3d50673f0f",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743340311326-mht9fva8i7eo2ph4j9e5r6thjcragoda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHy4tEZl634loOYmxiDyi27GgCyV64as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743340311326-mht9fva8i7eo2ph4j9e5r6thjcragoda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
